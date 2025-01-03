@@ -3,6 +3,45 @@ AI InfuGenX - An AI-Powered Content Creation Platform
 
 AI InfuGenX is an innovative, interactive web application built using Streamlit that integrates cutting-edge AI-driven features to enhance user experience. This platform serves as a hub for various AI functionalities, empowering users to explore, create, and experiment with text, visuals, and music.
 
+![Screenshot (27)](https://github.com/user-attachments/assets/4bd0f887-5c59-4961-9c4e-ca8e5ff9f10e)
+
+![Screenshot (28)](https://github.com/user-attachments/assets/d5a4cf63-3acd-4043-b41f-95d52054efcb)
+
+![Screenshot (30)](https://github.com/user-attachments/assets/b0668e11-e0c3-49b2-81e6-c902415f8bfd)
+
+
+![Screenshot (40)](https://github.com/user-attachments/assets/9fb7556f-402e-4595-9f00-ff093deee1f7)
+
+
+
+![Screenshot (31)](https://github.com/user-attachments/assets/9100fbd1-85f4-4efa-bdea-e7da0f34a868)
+
+
+![Screenshot (32)](https://github.com/user-attachments/assets/70516588-af7a-40b1-b7b3-e9199d06281a)
+
+
+![Screenshot (33)](https://github.com/user-attachments/assets/58183f96-2427-4f5f-a9d7-5250bdb2354d)
+
+
+![Screenshot (34)](https://github.com/user-attachments/assets/4c2a5482-a204-4068-865c-3aa8b6ef6375)
+
+
+![Screenshot (35)](https://github.com/user-attachments/assets/f8f1bae4-fa77-4140-b2d1-d8a6a7f59db2)
+
+
+![Screenshot (36)](https://github.com/user-attachments/assets/41d3796a-5d99-4723-95e0-b015eebf7b5c)
+
+
+
+![Screenshot (37)](https://github.com/user-attachments/assets/2cdcbcb4-de1a-4e2c-9e56-4e6ed63a8867)
+
+
+![Screenshot (38)](https://github.com/user-attachments/assets/a71d2764-5955-493f-82c2-5d3e82099399)
+
+
+
+
+
 Key Features
 
 1. Advanced Natural Language Processing
